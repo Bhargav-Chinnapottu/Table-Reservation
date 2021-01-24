@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TableReservation</string>
+    <string name="text">Login/Create Account quickly to manage orders</string>
+    <string name="account">ACCOUNT</string>
+    <string name="login">login</string>
+    <string name="info">LOGIN</string>
+    <string name="mobile">Enter your Email to proceed</string>
+    <string name="signin">SIGN IN</string>
+    <string name="create">Create an account with your Email</string>
+    <string name="pass">Password must be atleast 6 numbers</string>
+    <string name="_10_digit_mobile_number">10 digit mobile number</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="signup">SIGN UP</string>
+    <string name="register">register</string>
+    <string name="verify">VERIFY DETAILS</string>
+    <string name="location">Location</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="name">NAME</string>
+    <string name="search">SEARCH</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="orders">Orders</string>
+    <string name="about">Contact Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="myaddress">myaddress</string>
+    <string name="touch_sensor">Touch Sensor</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="shake_sensor">Shake Sensor</string>
+    <string name="aboutus">This is a Beta testing app</string>
+    <string name="main_activity_title">Sensor App</string>
+    <string name="Unavailable_sensors_message">Unavailable sensors will have their buttons disabled</string>
+
+    <string name="GPS_title">GPS</string>
+
+    <string name="GPS_lat_value">Latitude: %1$.2f</string>
+    <string name="GPS_long_value">Longitude: %1$.2f</string>
+    <string name="magnetometer_x_value">X Value: %1$.2f</string>
+    <string name="magnetometer_y_value">Y Value: %1$.2f</string>
+    <string name="magnetometer_z_value">Z Value: %1$.2f</string>
+    <string name="pressure_text">Value: %1$.2f</string>
+
+
+    <string name="GPSBtnText">GPS</string>
+    <string name="GPSBtnText2">Get Coordinates</string>
+</resources>

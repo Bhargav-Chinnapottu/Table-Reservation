@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066150595751",
+    "project_id": "tablereservation-37131",
+    "storage_bucket": "tablereservation-37131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066150595751:android:70858b12097a4105a69f82",
+        "android_client_info": {
+          "package_name": "com.example.tablereservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066150595751-a1j15iev0etvrb7778hngsea2phgvmib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzpDWXygPZ18l3aNxRDbU8jkq53a3wAp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066150595751-a1j15iev0etvrb7778hngsea2phgvmib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
